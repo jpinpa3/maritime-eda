@@ -26,5 +26,5 @@ Exploratory data analysis on a real AIS dataset with **358,351 vessel records** 
 
 ## 👤 Author
 
-**Javier Piñeiro** — Data Science MSc (UOC) | Naval Engineer  
-[Fiverr Profile](https://www.fiverr.com/javier_pineiro)
+**Javier Piñeiro** — Industrial Technical Engineer · MSc in Data Science (UOC, in progress)  
+[LinkedIn](https://www.linkedin.com/in/javier-piñeiro-paredes)
